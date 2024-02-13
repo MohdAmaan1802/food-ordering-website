@@ -49,4 +49,7 @@ it("Should load Resturant Menu Component", async () => {
   expect(
     screen.getByText("Cart is empty Please Add Items to the cart")
   ).toBeInTheDocument();
+  // expect(
+  //   screen.getByText("Cart is empty Please Add Items to the cart")
+  // ).toBeInTheDocument();
 });
