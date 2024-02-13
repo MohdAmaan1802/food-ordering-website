@@ -1,0 +1,76 @@
+{
+  "id": "426730",
+  "name": "Theobroma",
+  "cloudinaryImageId": "b033728dcb0101ceb19bff0e1e1f6474",
+  "locality": "Vittal Malya Road",
+  "areaName": "Ashok Nagar",
+  "costForTwo": "₹400 for two",
+  "cuisines": ["Desserts", "Bakery", "Beverages"],
+  "avgRating": 4.6,
+  "parentId": "1040",
+  "avgRatingString": "4.6",
+  "totalRatingsString": "1K+",
+  "sla": {
+    "deliveryTime": 19,
+    "lastMileTravel": 0.3,
+    "serviceability": "SERVICEABLE",
+    "slaString": "15-20 mins",
+    "lastMileTravelString": "0.3 km",
+    "iconType": "ICON_TYPE_EMPTY"
+  },
+  "availability": {
+    "nextCloseTime": "2024-02-09 23:00:00",
+    "opened": true
+  },
+  "badges": {
+    "textExtendedBadges": [
+      {
+        "iconId": "v1705582451/Ratnesh_Badges/Listing_HR.png",
+        "shortDescription": "Perfect Cake Delivery",
+        "fontColor": "#7E808C"
+      }
+    ]
+  },
+  "isOpen": true,
+  "type": "F",
+  "badgesV2": {
+    "entityBadges": {
+      "imageBased": {},
+      "textBased": {},
+      "textExtendedBadges": {
+        "badgeObject": [
+          {
+            "attributes": {
+              "description": "",
+              "fontColor": "#7E808C",
+              "iconId": "v1705582451/Ratnesh_Badges/Listing_HR.png",
+              "shortDescription": "Perfect Cake Delivery"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "aggregatedDiscountInfoV3": {
+    "header": "₹125 OFF",
+    "subHeader": "ABOVE ₹849",
+    "discountTag": "FLAT DEAL"
+  },
+  "orderabilityCommunication": {
+    "title": {},
+    "subTitle": {},
+    "message": {},
+    "customIcon": {}
+  },
+  "differentiatedUi": {
+    "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+    "differentiatedUiMediaDetails": {
+      "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+      "lottie": {},
+      "video": {}
+    }
+  },
+  "reviewsSummary": {},
+  "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+  "restaurantOfferPresentationInfo": {}
+}
